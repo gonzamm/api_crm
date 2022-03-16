@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Gonzalo ACTUALIZADO",
+      "empresa": "Gonzalo SRL",
+      "email": "correo@correo.com",
+      "telefono": "45645646",
+      "notas": "Cliente recomendado por otro",
+      "id": 1
+    },
+    {
+      "nombre": "Gonzalo",
+      "empresa": "Gonzalo SRL",
+      "email": "correo@correo.com",
+      "telefono": "45645646",
+      "notas": "Cliente recomendado por otro",
+      "id": 2
+    },
+    {
+      "nombre": "Gonzalo",
+      "empresa": "Gonzalo SRL",
+      "email": "correo@correo.com",
+      "telefono": "45645646",
+      "notas": "Cliente recomendado por otro",
+      "id": 3
+    }
+  ]
+}
